@@ -1,4 +1,4 @@
 # KMS Activation Script 
-// Download Script
-// Run As Admin 
-// Enjoy :)
+///  Download Script
+///  Run As Admin 
+///  Enjoy :)
